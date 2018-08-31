@@ -32,6 +32,7 @@
       "en",
       "zh-cn"
     ],
-    "skipClient": true
+    "skipClient": true,
+    "herokuDeployType": "jar"
   }
 }
